@@ -4,8 +4,7 @@
   "description": "Recipe generator app for Vercel deployment",
   "private": true,
   "scripts": {
-    "dev": "echo 'Run index.html in a local server'",
-    "build": "echo 'No build step for frontend'"
+    "dev": "echo 'Run index.html in a local server'"
   },
   "dependencies": {
     "@google/genai": "^1.19.0"
